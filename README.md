@@ -18,6 +18,6 @@ Make sure you have the following installed:
 3. **Instal**:
    ```bash
     npm i
-1. **Run **:
+1. **Run**:
    ```bash
    npm run dev
