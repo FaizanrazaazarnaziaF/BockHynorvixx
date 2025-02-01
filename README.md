@@ -17,7 +17,7 @@ Make sure you have the following installed:
    cd BOCK_SUITE
 3. **Instal**:
    ```bash
-  npm i
+    npm i
 1. **Run **:
    ```bash
    npm run dev
