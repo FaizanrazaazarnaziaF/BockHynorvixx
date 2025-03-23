@@ -283,7 +283,7 @@ const BockSuiteLandingPage = () => {
           <div>
             <div className="flex items-center mb-4">
               <Rocket className="text-blue-400 mr-2" size={24} />
-              <h4 className="text-xl font-bold">Bock Suite</h4>
+              <h4 className="text-xl font-bold">Hynorvixx</h4>
             </div>
             <p className="text-gray-400">
             Empowering teams with integrated productivity tools
@@ -318,7 +318,7 @@ const BockSuiteLandingPage = () => {
           </div>
         </div>
         <div className="text-center mt-8 border-t border-gray-800 pt-5">
-          <p className="text-gray-400">© 2024 Bock Suite. All Rights Reserved.</p>
+          <p className="text-gray-400">© 2024 Hynorvixx. All Rights Reserved.</p>
         </div>
       </footer>
     </div>
