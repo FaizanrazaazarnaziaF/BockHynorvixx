@@ -116,7 +116,7 @@ const BockSuiteLandingPage = () => {
         <div className="container mx-auto px-4 flex justify-between items-center">
           <div className="flex items-center">
           <img src="/bock-logo.png" alt="Bock Suite" className="w-12 h-12 " />
-            <h1 className="text-2xl font-bold pl-2">Bock Suite</h1>
+            <h1 className="text-2xl font-bold pl-2">Hynorvixx</h1>
           </div>
           <nav className="space-x-6">
             <a href="#" className="hover:text-blue-400 transition">Home</a>
