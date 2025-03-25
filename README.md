@@ -1,4 +1,21 @@
-# BOCK SUITE
+# Hynorvixx Landing Page
+
+A modern, responsive landing page built with Next.js, TypeScript, and Tailwind CSS for Hynorvixx's suite of professional development tools.
+
+## Project Overview
+
+This landing page serves as the main entry point for Hynorvixx's product suite, showcasing our services, features, and pricing plans. The design focuses on modern aesthetics, responsiveness, and smooth user interactions.
+
+## Technical Stack
+
+- **Framework**: Next.js 14+
+- **Language**: TypeScript
+- **Styling**: Tailwind CSS
+- **Animations**: Framer Motion
+- **Icons**: Lucide Icons
+- **Font**: Geist (Sans & Mono variants)
+
+## Project Structure
 
 ## Prerequisites
 
