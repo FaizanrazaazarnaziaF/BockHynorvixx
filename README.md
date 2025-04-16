@@ -28,7 +28,7 @@ Make sure you have the following installed:
 
 1. **Clone the repository**:
    ```bash
-   git clone  https://github.com/BOCK-CHAIN/BockOne.git
+   git clone  https://github.com/BOCK-CHAIN/BockHynorvixx.git
 2. **Naviagte to the repository**:
    ```bash
    cd BOCK_SUITE
