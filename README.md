@@ -117,3 +117,7 @@ http://[YOUR_EXTERNAL_IP]
 - If the site doesn't load, check Nginx status: `sudo systemctl status nginx`.
 - Verify file permissions in `/var/www/html`: `sudo chmod -R 755 /var/www/html`.
 - Confirm the `out/` folder contains the static files.
+
+
+
+Automation test commit – 10/09/2025
