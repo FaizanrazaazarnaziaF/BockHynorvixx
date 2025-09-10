@@ -19,9 +19,10 @@ jobs:
           node-version: 18
 
       - name: Install dependencies and build
-        run: |
-          npm install
-          npm run build
+  run: |
+    npm install --legacy-peer-deps
+    npm run build
+
 
       - name: Log in to Docker Hub
         uses: docker/login-action@v2
@@ -30,7 +31,7 @@ jobs:
           password: ${{ secrets.DOCKER_PASSWORD }}
 
       - name: Build Docker image
-        run: docker build -t ${{ secrets.DOCKER_USERNAME }}/hynorvixx:latest .
+        run: docker build -t ${{ secrets.DOCKER_USERNAME }}/hynorvix:latest .
 
       - name: Push Docker image
-        run: docker push ${{ secrets.DOCKER_USERNAME }}/hynorvixx:latest
+        run: docker push ${{ secrets.DOCKER_USERNAME }}/hynorvix:latest
